@@ -1,12 +1,12 @@
-## 📊 Customer Churn Analysis
+# 📊 Customer Churn Analysis
 Customer churn analysis using Python, Pandas, SQLite and data visualization
 
-# Project Overview
+## Project Overview
 This project focuses on analyzing customer churn to understand why customers discontinue their subscriptions and to identify patterns related to customer retention.
 
 The project uses Python, SQL, and data visualization techniques to clean, transform, analyze, and visualize customer subscription and support data.
 
-# Objectives
+## Objectives
 - Perform data cleaning and preprocessing.
 - Combine customer, subscription, and support datasets.
 - Calculate customer churn and retention rates.
@@ -15,7 +15,7 @@ The project uses Python, SQL, and data visualization techniques to clean, transf
 - Analyze customer support escalations and their relationship with churn.
 - Create visualizations to identify trends and patterns.
 
-# Tools & Technologies
+## Tools & Technologies
 - **Python** — Data analysis
 - **Pandas** — Data manipulation and cleaning
 - **NumPy** — Numerical operations and feature engineering
@@ -24,7 +24,7 @@ The project uses Python, SQL, and data visualization techniques to clean, transf
 - **SQLite** — Data storage and SQL queries
 - **Jupyter Notebook** — Development environment
 
-# Project Workflow
+## Project Workflow
 1. Extract data from SQLite tables.
 2. Inspect datasets and identify missing values.
 3. Clean and standardize customer information.
@@ -34,7 +34,7 @@ The project uses Python, SQL, and data visualization techniques to clean, transf
 7. Perform exploratory data analysis (EDA).
 8. Visualize churn patterns and interpret the results.
 
-# Key Findings
+## Key Findings
 Based on the current sample dataset:
 
 - **Churn Rate:** 28.57%
@@ -46,14 +46,14 @@ The Basic subscription plan showed a higher churn rate than the Standard and Pre
 
 These findings are exploratory and should be interpreted cautiously because the dataset contains only 21 customers.
 
-# Visualizations
+## Visualizations
 The project includes visualizations such as:
 - Monthly churn trend
 - Churn by subscription plan
 - Churn by state
 - Correlation analysis between selected variables
 
-# Future Improvements
+## Future Improvements
 - Analyze a larger customer dataset.
 - Build an interactive dashboard using Power BI or Tableau.
 - Develop a machine-learning model for churn prediction.
